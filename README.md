@@ -37,7 +37,7 @@ to determine how their performance differs when predicting customer default.
 ## Partner(s)/Contributor(s)
 
 - Alejandro Agustin
-- [Teammate Name]
+- James Arenas
 
 ## Methods Used
 
